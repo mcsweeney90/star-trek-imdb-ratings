@@ -1,3 +1,3 @@
-# Star Trek episode IMDb ratings
+# Star Trek IMDb episode ratings
 
 This repository contains notebooks that retrieve and analyse the [Internet Movie Database](https://www.imdb.com/) (IMDb) episode ratings of the classic - i.e., not currently airing - live-action Star Trek TV series. I *am* a big Star Trek fan (and all-round nerd!), but this project was mostly just an excuse for me to learn some basic web scraping and play around with a few python packages...
